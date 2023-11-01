@@ -27,7 +27,7 @@ fs.readFile('sql.txt', 'utf-8', (err, data) => {
 
 // COINCIDENCIAS
 fs.readFile('sqlkeywords.txt', 'utf-8', (err, data) => {
-  /* console.log(palabras); */
+  console.log(palabras);
   if (err) {
       console.log(err);
   }
