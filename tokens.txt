@@ -1,9 +1,0 @@
-. 
-, 
--
-_
-+
-*
-SELECT
-WHERE
-FROM
